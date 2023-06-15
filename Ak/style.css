@@ -1,0 +1,44 @@
+.btn{
+    border-radius: 35%;
+    padding: 20px 25px 20px 25px;
+    font-weight: 500;
+}
+
+
+.login
+{
+    text-align: center;
+}
+
+h5 {
+    margin-top: 50px;
+}
+
+#nav {
+    background-color:lightslategray
+}
+
+.nav-link{
+    font-weight:500;
+}
+
+.card{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    /* padding-bottom: 00px; */
+    
+    width: 35em;
+
+}
+
+#log{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.g-signin2
+{
+    position: relative;
+    padding: 10px 10px 10px 10px;
+}
